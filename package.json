@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "react": "^15.6.1",
+    "react-dom": "^15.6.1",
     "require": "^2.4.20"
   }
 }

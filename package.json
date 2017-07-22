@@ -1,0 +1,12 @@
+{
+  "name": "sandbox-weather-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Enoch Kim",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.6.1"
+  }
+}
